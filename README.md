@@ -57,6 +57,8 @@ The preprocessing stage involves two main steps:
  alt="schema">
 </p>
 
+Upon comparison, it is observed that the duration decreases after removing the silence or noise from the audio.
+
 3. **Extraction de caractéristiques (MFCC)**: Extraction des caractéristiques du texte en utilisant les coefficients MFCC (Mel Frequency Cepstral Coefficients).
 
 ## Construction du modèle
