@@ -64,8 +64,16 @@ Upon comparison, it is observed that the duration decreases after removing the s
 ## Construction du modèle
 The model construction phase includes the following steps:
 1. **Train/Test Split**:
-In this project, we have collected audio samples for both male and female speakers in each language of interest. The dataset includes recordings of individuals speaking in languages such as English, Arabic, French, and Spanish. To ensure a balanced representation, we have split the audio samples into separate training and testing sets. This division allows us to train our language identification model on a diverse range of speakers and evaluate its performance accurately on unseen data..
-2. **Gaussian Mixture Model**: Construction du modèle de Mélange Gaussien pour chaque langue à l'aide des caractéristiques extraites.
+   
+In this project, we have collected audio samples for both male and female speakers in each language of interest. The dataset includes recordings of individuals speaking in languages such as English, Arabic, French, and Spanish. To ensure a balanced representation, we have split the audio samples into separate training and testing sets. This division allows us to train our language identification model on a diverse range of speakers and evaluate its performance accurately on unseen data.
+3. **Gaussian Mixture Model**:
+ ###  Model Training
+   Construction du modèle de Mélange Gaussien pour chaque langue à l'aide des caractéristiques extraites.
+ ### Saving the Model
+  <p align="center">
+  <img src="https://github.com/kaoutar-lakdim/Language-Identification-usingGaussian-Mixture-Models/assets/74473164/46a6e4d1-2ad9-473f-bc0a-55bdcf625e7f"
+ alt="schema">
+</p>
 
 ## Évaluation du modèle
 L'évaluation du modèle de langue comprend les mesures de performance suivantes:
