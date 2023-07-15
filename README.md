@@ -8,7 +8,12 @@ This project aims to develop a language identification system using Gaussian Mix
 </p>
 
 ## Table of Contents
+## Table of Contents
 - [Introduction](#introduction)
+  - [Project Overview](#project-overview)
+  - [Objective of the Project](#objective-of-the-project)
+  - [Description of the Data Used](#description-of-the-data-used)
+  - [Descriptive Schema](#descriptive-schema)
 - [Prétraitement des données](#prétraitement-des-données)
 - [Construction du modèle](#construction-du-modèle)
 - [Évaluation du modèle](#évaluation-du-modèle)
