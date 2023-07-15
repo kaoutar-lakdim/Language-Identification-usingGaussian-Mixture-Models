@@ -76,8 +76,11 @@ In this project, we have collected audio samples for both male and female speake
 </p>
 
 ## Évaluation du modèle
-L'évaluation du modèle de langue comprend les mesures de performance suivantes:
-- **Mesures de performance**: Utilisation de la méthode `sample.score` pour évaluer les performances du modèle sur les données de test.
+I performed model evaluation using the Receiver Operating Characteristic (ROC) curve, which is a commonly used method for assessing the performance of a binary classification model. The ROC curve illustrates the relationship between the True Positive Rate (TPR) and the False Positive Rate (FPR) for various classification threshold values.
+
+By plotting the ROC curve, we can visualize and analyze the model's ability to discriminate between positive and negative classes. The TPR represents the proportion of actual positive instances correctly identified as positive, while the FPR represents the proportion of actual negative instances incorrectly classified as positive.
+
+The ROC curve provides valuable insights into the model's classification performance across different thresholds. The area under the ROC curve (AUC-ROC) is often used as a summary metric to quantify the overall discriminatory power of the model. A higher AUC-ROC value indicates better model performance in distinguishing between positive and negative classes
 
 ## Conclusion
 Cette projet démontre la faisabilité de l'identification de langues à l'aide de modèles de Mélange Gaussien. Les résultats obtenus montrent une précision satisfaisante et une classification précise des différentes langues.
