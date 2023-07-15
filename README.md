@@ -20,9 +20,6 @@ This project aims to develop a language identification system using Gaussian Mix
 - [Conclusion](#conclusion)
 - [Problèmes](#problèmes)
 
-## Introduction
-This section provides an overview of the project, its objectives, the data used, and a descriptive schema.
-
 ### Project Overview
 The Language Identification Project aims to develop a robust system for automatically identifying the language of a given text. By leveraging Gaussian Mixture Models (GMMs), we aim to achieve accurate language identification across various languages.
 
