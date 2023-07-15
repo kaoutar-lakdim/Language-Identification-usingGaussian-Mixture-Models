@@ -52,7 +52,12 @@ A descriptive schema is developed to organize and represent the language identif
 ## Prétraitement des données
 The preprocessing stage involves two main steps:
 1. **Élimination de silence**: Elimination des parties silencieuses du texte.
-2. **Extraction de caractéristiques (MFCC)**: Extraction des caractéristiques du texte en utilisant les coefficients MFCC (Mel Frequency Cepstral Coefficients).
+   <p align="center">
+  <img src="https://github.com/kaoutar-lakdim/Language-Identification-usingGaussian-Mixture-Models/assets/74473164/60131c27-ae89-4009-b86b-11bdc93ee168"
+ alt="schema">
+</p>
+
+3. **Extraction de caractéristiques (MFCC)**: Extraction des caractéristiques du texte en utilisant les coefficients MFCC (Mel Frequency Cepstral Coefficients).
 
 ## Construction du modèle
 The model construction phase includes the following steps:
