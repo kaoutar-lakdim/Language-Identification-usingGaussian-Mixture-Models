@@ -82,6 +82,13 @@ By plotting the ROC curve, we can visualize and analyze the model's ability to d
 
 The ROC curve provides valuable insights into the model's classification performance across different thresholds. The area under the ROC curve (AUC-ROC) is often used as a summary metric to quantify the overall discriminatory power of the model. A higher AUC-ROC value indicates better model performance in distinguishing between positive and negative classes
 
+This code utilizes the true labels "y_true" and the predicted scores "scores" to calculate and plot the Receiver Operating Characteristic (ROC) curves for three different datasets
+<p align="center">
+  <img src="https://github.com/kaoutar-lakdim/Language-Identification-usingGaussian-Mixture-Models/assets/74473164/e5baefa5-263d-484e-8e0b-cf48b435f8dc"
+ alt="schema">
+</p
+
+
 ## Conclusion
 Cette projet démontre la faisabilité de l'identification de langues à l'aide de modèles de Mélange Gaussien. Les résultats obtenus montrent une précision satisfaisante et une classification précise des différentes langues.
 
