@@ -95,6 +95,24 @@ Additionally, it is worth noting that the recordings of 15 seconds converge more
 
 These observations emphasize the importance of considering the duration of audio recordings when developing and evaluating prediction models, as it can significantly impact their performance and convergence rate
 
+## Model Evaluation with Different GMMs
+<p align="center">
+  <img src="https://github.com/kaoutar-lakdim/Language-Identification-usingGaussian-Mixture-Models/assets/74473164/c71b871e-688f-4ea3-876c-e46f03961c47"
+ alt="schema">
+</p
+
+
+I have obtained a comparison curve between different GMM models, and I have observed that the GMM with 32 components achieved the best result. It was followed by the GMM with 128 components, then the GMM with 64 components, and finally, the GMM with 16 components, which yielded the lowest result.
+
+This comparison provides valuable insights into the performance of the different GMM models in language identification. It indicates that increasing the number of components generally improves the model's accuracy and effectiveness. However, there may be a diminishing return as the number of components increases, as evidenced by the lower performance of the GMM with 128 components compared to the GMM with 32 components
+
+<p align="center">
+  <img src="https://github.com/kaoutar-lakdim/Language-Identification-usingGaussian-Mixture-Models/assets/74473164/c61a8c50-988e-408a-a279-54f5e189e5f1"
+ alt="schema">
+</p
+
+
+****
 ## Conclusion
 Cette projet démontre la faisabilité de l'identification de langues à l'aide de modèles de Mélange Gaussien. Les résultats obtenus montrent une précision satisfaisante et une classification précise des différentes langues.
 
