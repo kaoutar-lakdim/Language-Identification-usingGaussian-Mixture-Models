@@ -139,5 +139,6 @@ In this project, the speaker identification functionality is integrated into the
 It's important to note that the performance of the speaker identification model depends on the quality and diversity of the training data, as well as the effectiveness of the chosen feature extraction techniques and machine learning algorithms.
 
 ****
+
 ## Conclusion
 Cette projet démontre la faisabilité de l'identification de langues à l'aide de modèles de Mélange Gaussien. Les résultats obtenus montrent une précision satisfaisante et une classification précise des différentes langues.
