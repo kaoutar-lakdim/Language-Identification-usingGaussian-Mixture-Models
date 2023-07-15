@@ -111,8 +111,9 @@ This comparison provides valuable insights into the performance of the different
   <img src="https://github.com/kaoutar-lakdim/Language-Identification-usingGaussian-Mixture-Models/assets/74473164/c61a8c50-988e-408a-a279-54f5e189e5f1"
  alt="schema">
 </p
-  
-###  Speaker Identification
+
+
+### Feature Extraction
 
 The speaker identification feature aims to determine the identity of the speaker in an audio sample. This functionality can be useful in various applications such as forensic analysis, voice-based user authentication, or personalized services.
 
