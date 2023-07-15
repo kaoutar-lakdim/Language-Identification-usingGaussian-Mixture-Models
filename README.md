@@ -17,7 +17,7 @@ This project aims to develop a language identification system using Gaussian Mix
 - [Construction du modèle](#construction-du-modèle)
 - [Évaluation du modèle](#évaluation-du-modèle)
 - [Conclusion](#conclusion)
-- [Problèmes](#problèmes)
+
 
 ### Objective of the Project
 
@@ -115,8 +115,3 @@ This comparison provides valuable insights into the performance of the different
 ****
 ## Conclusion
 Cette projet démontre la faisabilité de l'identification de langues à l'aide de modèles de Mélange Gaussien. Les résultats obtenus montrent une précision satisfaisante et une classification précise des différentes langues.
-
-## Problèmes
-Dans cette section, les problèmes rencontrés durant le projet seront décrits en détail, ainsi que les solutions ou les pistes de résolution envisagées.
-
-Feel free to modify and expand this README file according to your project's specific details and requirements. Include installation instructions, usage examples, and any additional information that would be helpful for users who want to utilize or contribute to your language identification project.
