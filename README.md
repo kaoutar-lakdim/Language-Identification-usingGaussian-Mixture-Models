@@ -88,6 +88,12 @@ This code utilizes the true labels "y_true" and the predicted scores "scores" to
  alt="schema">
 </p
 
+### Remarks
+Upon analysis, we observe that the recordings lasting 15 seconds yield the best results, followed by the recordings of 10 seconds, and then the recordings of 5 seconds. This suggests that the duration of audio recordings has an influence on the performance of the prediction model.
+
+Additionally, it is worth noting that the recordings of 15 seconds converge more rapidly in terms of model performance compared to the other recording durations. This indicates that longer recordings provide more comprehensive and informative data for the model to make accurate predictions.
+
+These observations emphasize the importance of considering the duration of audio recordings when developing and evaluating prediction models, as it can significantly impact their performance and convergence rate
 
 ## Conclusion
 Cette projet démontre la faisabilité de l'identification de langues à l'aide de modèles de Mélange Gaussien. Les résultats obtenus montrent une précision satisfaisante et une classification précise des différentes langues.
