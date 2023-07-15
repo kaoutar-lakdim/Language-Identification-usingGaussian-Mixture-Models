@@ -114,7 +114,7 @@ This comparison provides valuable insights into the performance of the different
 
 
 ## Speaker Identification
-
+This section focuses on the speaker identification aspect of the project. Explain the techniques, methodologies, or models used for identifying the speaker's identity in an audio sample. Discuss any feature extraction methods, training procedures, or inference techniques employed.
 
 
 
