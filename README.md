@@ -36,7 +36,6 @@ The dataset is stored in a shared folder on Google Drive, which can be accessed 
   <img src="https://github.com/kaoutar-lakdim/Language-Identification-usingGaussian-Mixture-Models/assets/74473164/03b17762-82ba-4908-9102-31d128c5230f" alt="schema">
 </p>
 
-
 ### Descriptive Schema
 A descriptive schema is developed to organize and represent the language identification system's structure, components, and processes. It provides an overview of the system's architecture, data flow, and the interaction between different modules.
 
