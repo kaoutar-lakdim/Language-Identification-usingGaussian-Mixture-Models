@@ -10,7 +10,6 @@ This project aims to develop a language identification system using Gaussian Mix
 ## Table of Contents
 ## Table of Contents
 - [Introduction](#introduction)
-  - [Project Overview](#project-overview)
   - [Objective of the Project](#objective-of-the-project)
   - [Description of the Data Used](#description-of-the-data-used)
   - [Descriptive Schema](#descriptive-schema)
@@ -20,14 +19,19 @@ This project aims to develop a language identification system using Gaussian Mix
 - [Conclusion](#conclusion)
 - [Problèmes](#problèmes)
 
-### Project Overview
-The Language Identification Project aims to develop a robust system for automatically identifying the language of a given text. By leveraging Gaussian Mixture Models (GMMs), we aim to achieve accurate language identification across various languages.
-
 ### Objective of the Project
-The main objective of this project is to build a language identification system that can accurately identify the language of a given text sample. By utilizing GMMs and appropriate feature extraction techniques, we aim to achieve high accuracy and reliability in language identification.
+
+In my project, I focus on language identification from an audio file. The goal is to detect the language used in the audio. I have worked with various languages such as English, Arabic, French, and Spanish.
+
+In this project, I describe the steps I followed to build my language identification model. Firstly, I present the description of the database I used to train and test my model. Then, I discuss the preprocessing steps, including silence removal and feature extraction. After that, I explain the construction of the language identification model using Gaussian Mixture Models (GMMs) and the training process. Finally, I evaluate the performance of the model using appropriate metrics and discuss the results
+
 
 ### Description of the Data Used
-In this project, we use a diverse dataset of text samples from different languages. The dataset includes a sufficient number of samples for each language to ensure comprehensive language coverage and accurate language identification.
+For the description of my database, I collaborated with my classmates in collecting the data. Each of us gathered two audio files (one male and one female) in the languages we selected for our project.
+
+Each audio file has a duration of at least one minute, and we stored all the audio files in a shared folder on Google Drive. This collaborative approach allowed us to gather a diverse set of audio data for our language identification project.
+
+The dataset is stored in a shared folder on Google Drive, which can be accessed through the following link :https://drive.google.com/drive/folders/1OezDyIRWZDsjmb6x7YXuEObjDk8G_XlL?usp=sharing
 
 ### Descriptive Schema
 A descriptive schema is developed to organize and represent the language identification system's structure, components, and processes. It provides an overview of the system's architecture, data flow, and the interaction between different modules.
