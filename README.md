@@ -1,5 +1,5 @@
-# Language-Identification-usingGaussian-Mixture-Models
-
+# Language-Identification-and speaker identification
+## Language-Identification-usingGaussian-Mixture-Models
 ## Introduction
 This project aims to develop a language identification system using Gaussian Mixture Models (GMMs). It enables automatic detection and classification of different languages based on the given text data. This README provides an overview of the project, its objectives, the data used, the preprocessing steps, the model construction, evaluation metrics, and a conclusion.
 
@@ -110,6 +110,10 @@ This comparison provides valuable insights into the performance of the different
   <img src="https://github.com/kaoutar-lakdim/Language-Identification-usingGaussian-Mixture-Models/assets/74473164/c61a8c50-988e-408a-a279-54f5e189e5f1"
  alt="schema">
 </p
+
+## speaker identification
+
+
 
 
 ****
