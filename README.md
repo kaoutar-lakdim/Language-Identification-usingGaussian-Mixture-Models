@@ -43,6 +43,12 @@ A descriptive schema is developed to organize and represent the language identif
  alt="schema">
 </p>
 
+
+<p align="center">
+  <img src="https://github.com/kaoutar-lakdim/Language-Identification-usingGaussian-Mixture-Models/assets/74473164/5cf22015-e01f-4034-98b9-46bf739b3139"
+ alt="schema">
+</p>
+
 ## Prétraitement des données
 The preprocessing stage involves two main steps:
 1. **Élimination de silence**: Elimination des parties silencieuses du texte.
