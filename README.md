@@ -7,7 +7,7 @@ This project aims to develop a language identification system using Gaussian Mix
   <img src="https://github.com/kaoutar-lakdim/Language-Identification-usingGaussian-Mixture-Models/assets/74473164/8ef52fea-7ad0-45ba-8edb-aaf514dd2865" alt="schema">
 </p>
 
-## Table of Contents
+
 ## Table of Contents
 - [Introduction](#introduction)
   - [Objective of the Project](#objective-of-the-project)
@@ -16,6 +16,7 @@ This project aims to develop a language identification system using Gaussian Mix
 - [Prétraitement des données](#prétraitement-des-données)
 - [Construction du modèle](#construction-du-modèle)
 - [Évaluation du modèle](#évaluation-du-modèle)
+- [Speaker Identification](#speaker-identification)
 - [Conclusion](#conclusion)
 
 
