@@ -113,7 +113,7 @@ This comparison provides valuable insights into the performance of the different
 </p
 
 
-### Feature Extraction
+### The speaker identification
 
 The speaker identification feature aims to determine the identity of the speaker in an audio sample. This functionality can be useful in various applications such as forensic analysis, voice-based user authentication, or personalized services.
 
