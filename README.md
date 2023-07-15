@@ -20,6 +20,23 @@ This project aims to develop a language identification system using Gaussian Mix
 - [Conclusion](#conclusion)
 - [Problèmes](#problèmes)
 
+## Introduction
+This section provides an overview of the project, its objectives, the data used, and a descriptive schema.
+
+### Project Overview
+The Language Identification Project aims to develop a robust system for automatically identifying the language of a given text. By leveraging Gaussian Mixture Models (GMMs), we aim to achieve accurate language identification across various languages.
+
+### Objective of the Project
+The main objective of this project is to build a language identification system that can accurately identify the language of a given text sample. By utilizing GMMs and appropriate feature extraction techniques, we aim to achieve high accuracy and reliability in language identification.
+
+### Description of the Data Used
+In this project, we use a diverse dataset of text samples from different languages. The dataset includes a sufficient number of samples for each language to ensure comprehensive language coverage and accurate language identification.
+
+### Descriptive Schema
+A descriptive schema is developed to organize and represent the language identification system's structure, components, and processes. It provides an overview of the system's architecture, data flow, and the interaction between different modules.
+
+
+
 ## Prétraitement des données
 The preprocessing stage involves two main steps:
 1. **Élimination de silence**: Elimination des parties silencieuses du texte.
