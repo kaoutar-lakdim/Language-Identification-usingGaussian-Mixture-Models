@@ -31,7 +31,11 @@ For the description of my database, I collaborated with my classmates in collect
 
 Each audio file has a duration of at least one minute, and we stored all the audio files in a shared folder on Google Drive. This collaborative approach allowed us to gather a diverse set of audio data for our language identification project.
 
-The dataset is stored in a shared folder on Google Drive, which can be accessed through the following link :https://drive.google.com/drive/folders/1OezDyIRWZDsjmb6x7YXuEObjDk8G_XlL?usp=sharing
+The dataset is stored in a shared folder on Google Drive, which can be accessed through the following link https://drive.google.com/drive/folders/1OezDyIRWZDsjmb6x7YXuEObjDk8G_XlL?usp=sharing
+<p align="center">
+  <img src="https://github.com/kaoutar-lakdim/Language-Identification-usingGaussian-Mixture-Models/assets/74473164/03b17762-82ba-4908-9102-31d128c5230f" alt="schema">
+</p>
+
 
 ### Descriptive Schema
 A descriptive schema is developed to organize and represent the language identification system's structure, components, and processes. It provides an overview of the system's architecture, data flow, and the interaction between different modules.
